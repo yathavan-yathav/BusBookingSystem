@@ -1,5 +1,5 @@
 import React from 'react';
-
+import axios from 'axios';
 function Home() {
   return (
     <div className="container mx-auto p-4">
